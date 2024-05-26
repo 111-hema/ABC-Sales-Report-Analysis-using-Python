@@ -1,3 +1,3 @@
-# Python_Amazon_Sales_Analysis
+# Python_ABC_Sales_Report_Analysis
 
-Python project for beginners- Analyze Amazon sales data to check the buyers preferred choice in the sales
+Python project for Analyzing ABC sales data to check the buyers preferred choice in the sales
